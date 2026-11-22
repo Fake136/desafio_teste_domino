@@ -252,4 +252,4 @@ cd desafio_teste_domino
 node --test
 ```
 
-O workflow `.github/workflows/testes.yml` executa os testes e a demonstração em **Node.js 22 e 24** a cada push e pull request. Os resultados ficam na aba [Actions](https://github.com/LuizEdVS/desafio_teste_domino/actions).
+O workflow `.github/workflows/testes.yml` executa os testes e a demonstração em **Node.js 22 e 24** a cada push e pull request. Os resultados ficam na aba [Actions](https://github.com/Fake136/desafio_teste_domino/actions).
